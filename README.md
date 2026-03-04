@@ -1,5 +1,5 @@
 
-# [Data Science Project: Customer Segmentation - Overview](https://github.com/Alfira8888/Customer_segmentation)
+# Data Science Project: Customer Segmentation - [->Link to Project](https://github.com/ZanetaNogacz/Customer_segmentation)
 
 * Dataset contains marketing information about bank customers (this is training dataset provided by tutor in csv file) 
 * Dataset were cleaned, scaled and analysed
